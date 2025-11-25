@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: Diamond_price_prediction
+Version: 0.0.1
+Author: Bharat_kori
+Author-email: bharatkori.1997@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
